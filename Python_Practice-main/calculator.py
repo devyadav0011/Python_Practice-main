@@ -3,6 +3,7 @@ n = (input("Enter Symbol: "))
 o = int(input("Enter Second value: "))
 if n== "+" :
     print(m+o)
+    
 else:
     if n == "-":
         print(m-o)
