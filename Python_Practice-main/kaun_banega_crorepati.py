@@ -16,10 +16,9 @@ questions = [
     ["Which is the largest volcano in the world?", "Mauna Loa", "Mount St. Helens", "Mount Vesuvius", "Krakatoa", 1],
     ["Which is the largest city in the world?", "Tokyo", "Delhi", "Shanghai", "Sao Paulo", 1],
     ["Which is the largest country by population in the world?", "India", "USA", "China", "Russia", 3],
-    ["Which is the largest economy in the world?", "India", "USA", "China", "Japan", 2]
 ]
 
-levels = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 200, 300, 400, 500, 600, 700]
+levels = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 200, 300, 400, 500, 600,]
 
 money = 0
 
