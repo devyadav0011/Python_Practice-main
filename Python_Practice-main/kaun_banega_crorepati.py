@@ -41,7 +41,7 @@ for i in range(len(questions)):
     reply = int(reply)
     if reply == q[5]:
         money = levels[i]
-        print(f"✅ Correct answer! You have won Rs.{money}")
+        print(f"✅ Correct answer!🎊 You have won Rs.{money}")
         if i == len(questions) - 1:
             print("🎊 Congratulations! You have completed the game and won Rs.700 🎊")
     else:
